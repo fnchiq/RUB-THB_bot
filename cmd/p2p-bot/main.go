@@ -13,7 +13,7 @@ import (
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 
-const botToken = "5976526628:AAHb08i6eJjp1K9fFJtt64cAccuZ5Kdu6jE"
+const botToken = "токен"
 
 func main() {
 	var binanceAPI binance.Binance
